@@ -1,0 +1,7 @@
+* NOT actually used for cheating :)
+
+2 ^ 10 = 1024
+2 ^ 20 = (2 ^ 10) ^ 2 ~= 1,000,000
+2 ^ 32 => max int for most programming languages
+\d{3}-\d{4} => Regular expression for 3 digits followed by a hyphen followed by 4 digits (123-4567; phone number)
+Guess number between 1-100,000 => Binary search 0(log n)
